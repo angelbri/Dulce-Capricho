@@ -3,6 +3,7 @@
 # Dulce Capricho: El Paraíso de los Sabores
 Bienvenido a Dulce Capricho, donde cada bocado es una experiencia inolvidable. Situada en el corazón de la ciudad, nuestra pastelería es un rincón acogedor y encantador, diseñado para ofrecerte los más deliciosos y tentadores postres.
 
+ ![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/duolce%20capricho.PNG)
 
 # Nuestra Filosofía
 En Dulce Capricho, creemos que cada día merece un toque de dulzura. Nos apasiona la repostería y nos esforzamos por crear pasteles y postres que no solo deleiten tu paladar, sino que también sean una obra de arte. Utilizamos ingredientes frescos y de la más alta calidad, combinando técnicas tradicionales con un toque de innovación para sorprenderte en cada visita.
