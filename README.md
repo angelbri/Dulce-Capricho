@@ -10,7 +10,7 @@ En Dulce Capricho, creemos que cada día merece un toque de dulzura. Nos apasion
 
 # Menú de Pastelería "Dulce Capricho"
 
-## **Menú de Pastelería "Dulce Tentación"**
+## **Menú de Pastelería "Dulce Capricho"**
 
 ### **Pasteles y Tartas**
 1. **Pastel de Chocolate**
@@ -40,4 +40,7 @@ En Dulce Capricho, creemos que cada día merece un toque de dulzura. Nos apasion
 2. **Macarons**
    - Sabores: Pistacho, frambuesa, chocolate, vainilla.
    - Precio: $2.00 cada uno
+   
 # Modelo logico 
+
+![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/modelo%20logico.PNG)
