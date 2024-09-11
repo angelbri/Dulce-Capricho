@@ -14,13 +14,13 @@ En Dulce Capricho, creemos que cada día merece un toque de dulzura. Nos apasion
 
 ### **Pasteles y Tartas**
 1. **Pastel de Chocolate**
-   - Precio: $15.00 por porción / $50.00 entero
+   - Precio: $15.00 por porción / $20.00 entero
 
 2. **Tarta de Fresas con Crema**
-   - Precio: $12.00 por porción / $45.00 entero
+   - Precio: $12.00 por porción / $25.00 entero
 
 3. **Cheesecake de Frutos Rojos**
-   - Precio: $14.00 por porción / $48.00 entero
+   - Precio: $14.00 por porción / $29.00 entero
 
 ### **Panadería Dulce**
 1. **Croissants**
