@@ -44,3 +44,20 @@ En Dulce Capricho, creemos que cada día merece un toque de dulzura. Nos apasion
 # Modelo logico 
 
 ![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/modelo%20logico.PNG)
+
+**Tablas Principales**
+1. **Cliente:** Almacena información sobre los clientes de la pastelería.
+
+2. **Producto:** Contiene detalles sobre los productos ofrecidos por la pastelería, incluyendo su nombre, descripción, precio, stock y la receta asociada.
+
+3. **Pedido:** Registra información sobre los pedidos realizados por los clientes, incluyendo fechas y estado del pedido.
+
+4. **Detalle_pedido:** Detalla qué productos están incluidos en cada pedido y en qué cantidad.
+
+5. **Receta:** Define las recetas que se utilizan para preparar los productos, incluyendo nombre, descripción y tiempo de preparación.
+
+6. **Ingrediente:** Contiene información sobre los ingredientes utilizados en las recetas, incluyendo su nombre, cantidad y unidad de medida.
+
+7. **Receta_ingrediente:** Relaciona las recetas con los ingredientes necesarios, especificando la cantidad necesaria de cada ingrediente para una receta.
+
+
