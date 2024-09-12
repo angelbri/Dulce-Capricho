@@ -60,4 +60,5 @@ En Dulce Capricho, creemos que cada día merece un toque de dulzura. Nos apasion
 
 7. **Receta_ingrediente:** Relaciona las recetas con los ingredientes necesarios, especificando la cantidad necesaria de cada ingrediente para una receta.
 
+https://github.com/angelbri/Dulce-Capricho/blob/main/pasteleria.sql 
 
