@@ -71,3 +71,5 @@ En el competitivo sector de la pastelería, la eficiencia operativa y una gesti�
 
 
 **2.Queremos identificar los ingredientes cuyo stock está por debajo de un umbral específico para reabastecerlos.**
+
+![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/2%20captura.JPG)
