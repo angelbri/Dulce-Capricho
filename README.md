@@ -67,3 +67,7 @@ En el competitivo sector de la pastelería, la eficiencia operativa y una gesti�
 
 **1.Necesitamos calcular el monto total de cada pedido para evaluar el valor total de las ventas realizadas.**
 
+![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/1%20captura.JPG)
+
+
+**2.Queremos identificar los ingredientes cuyo stock está por debajo de un umbral específico para reabastecerlos.**
