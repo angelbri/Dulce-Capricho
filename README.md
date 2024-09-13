@@ -62,3 +62,8 @@ En Dulce Capricho, creemos que cada día merece un toque de dulzura. Nos apasion
 
 https://github.com/angelbri/Dulce-Capricho/blob/main/pasteleria.sql 
 
+# Reporte del problema 
+En el competitivo sector de la pastelería, la eficiencia operativa y una gestión efectiva de recursos son cruciales para mantener la calidad y satisfacer las expectativas de los clientes. "Dulce Capricho", una pastelería reconocida por su excelencia, se enfrenta a varios retos en su operación diaria. Para asegurar la continuidad del negocio y la satisfacción del cliente, es vital abordar los siguientes problemas:
+
+**1.Necesitamos calcular el monto total de cada pedido para evaluar el valor total de las ventas realizadas.**
+
