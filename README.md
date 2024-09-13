@@ -73,3 +73,15 @@ En el competitivo sector de la pastelería, la eficiencia operativa y una gesti�
 **2.Queremos identificar los ingredientes cuyo stock está por debajo de un umbral específico para reabastecerlos.**
 
 ![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/2%20captura.JPG)
+
+
+**3.Necesitamos listar los pedidos que están en estado pendiente para su seguimiento y procesamiento.**
+
+![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/3%20Captura.JPG)
+
+
+**4.Queremos ver las recetas junto con los ingredientes necesarios para cada una, para gestionar la producción de manera efectiva.**
+
+![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/4%20Captura.JPG)
+
+
