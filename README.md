@@ -94,3 +94,5 @@ En el competitivo sector de la pasteler√≠a, la eficiencia operativa y una gesti√
 
 ![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/5%20Captura.JPG)
 ![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/5.5Captura.JPG)
+
+https://github.com/angelbri/Dulce-Capricho/blob/main/Reportes%20del%20Problema.sql
