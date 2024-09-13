@@ -85,3 +85,6 @@ En el competitivo sector de la pastelería, la eficiencia operativa y una gesti�
 ![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/4%20Captura.JPG)
 
 
+5.Queremos saber qué ingredientes se utilizan en cada receta y la cantidad necesaria para gestionar mejor el inventario y la preparación.
+
+![imagen](https://github.com/angelbri/Dulce-Capricho/blob/main/5%20Captura.JPG)
